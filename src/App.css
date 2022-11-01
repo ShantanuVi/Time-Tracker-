@@ -1,0 +1,17 @@
+.flexbox-container {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.flexbox-item{
+    width: 100%;
+    margin: 10px;
+}
+
+.flexbox-item-1{
+    min-height: 50px;
+}
+
+.flexbox-item-2{
+    min-height: 100px;
+}
